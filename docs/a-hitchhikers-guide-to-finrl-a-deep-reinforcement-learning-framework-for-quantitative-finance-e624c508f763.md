@@ -1,0 +1,5 @@
+# FinRL 搭便车指南:定量金融的深度强化学习框架
+
+> 原文：<https://medium.com/analytics-vidhya/a-hitchhikers-guide-to-finrl-a-deep-reinforcement-learning-framework-for-quantitative-finance-e624c508f763?source=collection_archive---------1----------------------->
+
+*   FinRL 是一个深度 RL 库，旨在提供一个用 RL 实现量化金融的框架。因此，在这个初学者指南中，我们将从强化学习组件和库的目录结构开始，然后浏览代码以了解实现，并讨论其他教程，您可以根据您的用例来研究这些教程。这篇博文假设你知道[强化学习](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)基础知识、[政策梯度](/analytics-vidhya/policy-gradients-in-deep-reinforcement-learning-83d99575cfca)，以及像 [DDPG](/analytics-vidhya/deep-deterministic-policy-gradient-for-continuous-action-space-9b2b9bacd555) 、 [PPO](/analytics-vidhya/trust-region-methods-for-deep-reinforcement-learning-e7e2a8460284) 、 [SAC](/analytics-vidhya/soft-actor-critic-algorithms-in-deep-reinforcement-learning-a11bedd9aa20) 、TD3 和 A2C 这样的演员-评论家方法…
